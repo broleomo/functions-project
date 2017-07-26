@@ -96,7 +96,7 @@ console.log(greaterThan(4,3));
 // is the parameter that was passed in.
 // Then, write and example of using the function.
 function greet(Name) {
-  return ('Hello ' + Name);
+  return ('Hello, ' + Name + '!');
 }
 console.log(greet('Gargi'));
 
